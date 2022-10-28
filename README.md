@@ -30,9 +30,6 @@
 <a href="https://www.linkedin.com/in/alexandre-ermida-2956b7232/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/alex_ermida/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
 <a href="mailto:alexermida14@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gmail-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
