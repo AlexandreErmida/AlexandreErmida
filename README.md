@@ -5,7 +5,9 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,laravel,cs, react, next, tailwind, bootstrap, node, express)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,laravel,cs, react, next, tailwind, bootstrap, node, express" />
+</p
 <br><br>
 
 ## @ &nbsp;Social Links
